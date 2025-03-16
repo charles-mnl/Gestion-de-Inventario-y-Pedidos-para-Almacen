@@ -12,4 +12,4 @@ Este es mi primer programa de inventario, creado con la intención de ayudar al 
 1. Clona el repositorio:  
    ```sh
    git clone https://github.com/charles-mnl/Gestion-de-Inventario-y-Pedidos-para-Almacen
-(programa.png)
+![Inventario](programa.png)
