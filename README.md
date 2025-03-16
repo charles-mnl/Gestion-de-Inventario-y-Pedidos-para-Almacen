@@ -1,5 +1,5 @@
 ## 🚀 Sobre este proyecto  
-Este es mi primer programa de inventario, creado con la intención de ayudar al personal de almacén a llevar un mejor control de materiales y herramientas, así como registrar y gestionar pedidos diarios de manera más sencilla.  
+Inventario creado con la intención de ayudar al personal de almacén a llevar un mejor control de materiales y herramientas, así como registrar y gestionar pedidos diarios de manera más sencilla.  
 
 ## 🔹 Características  
 ✅ Registro y seguimiento del inventario.  
